@@ -1,0 +1,3 @@
+inicializar o expo
+
+expo start
